@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice)
 
-<h3 align="center">A passionate Backend developer from Korea</h3>
-
 <br>
 
 - 🌱 I am currently learning at **BoostCamp(Fullstack / Node.js)**
