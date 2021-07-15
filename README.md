@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **BoostCamp(Fullstack / Node.js)**
 
-<br>
-
 - 📝 I regularly write articles on [https://www.notion.so/9c39d21815a84b31a3d6081010ab7a96](https://www.notion.so/9c39d21815a84b31a3d6081010ab7a96)
 
 <h3 align="left">Languages and Tools:</h3>
