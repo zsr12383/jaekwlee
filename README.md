@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Backend developer from Korea</h3>
 <br>
 
-- 🌱 I’m currently learning **42Seoul(C), BoostCamp(fullstack / Node.js)**
+- 🌱 I’m currently learning **BoostCamp(Fullstack / Node.js)**
 
 <br>
 
