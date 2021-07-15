@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaekwon LEE</h1>
 
 <h3 align="center">A passionate Backend developer from Korea</h3>
-<br>
 
 - 🌱 I’m currently learning **BoostCamp(Fullstack / Node.js)**
 
