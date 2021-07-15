@@ -2,9 +2,13 @@
 <br><br>
 <h3 align="center">A passionate Backend developer from Korea</h3>
 <br><br>
+
 - 🌱 I’m currently learning **42Seoul(C), BoostCamp(fullstack / Node.js)**
+
 <br><br>
+
 - 📝 I regularly write articles on [https://www.notion.so/9c39d21815a84b31a3d6081010ab7a96](https://www.notion.so/9c39d21815a84b31a3d6081010ab7a96)
+
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
