@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 - 🌱 I am currently learning at **BoostCamp(Full-stack / Node.js)**
 
